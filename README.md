@@ -1,4 +1,6 @@
-# CollectionBuilder-CSV
+# Sarah Dawn Comedy Archives Demo
+
+This is me practicing how to edit readme for my class. I am going to keep the Collections Builder stuff though.
 
 CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
 Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
