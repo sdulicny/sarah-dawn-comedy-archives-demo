@@ -12,4 +12,4 @@ identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
-related_link,,,true,DCTERMS.link,external_link
+related_link,link,,true,DCTERMS.link,external_link
