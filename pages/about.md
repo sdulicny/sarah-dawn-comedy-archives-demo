@@ -8,8 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="sdc_009" %}
-
+{% include feature/card.html header="Promo Photo taken by Evan Riley Brown" text="Promo Photo of Sarah Dawn at Dakoda's Pub, taken by Evan Riley Brown, April 17, 2022." objectid="sdc_009" width="25" centered=true %}
 
 ## About Sarah Dawn
 
