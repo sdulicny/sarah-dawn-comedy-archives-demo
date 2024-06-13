@@ -14,7 +14,7 @@ credits: true
 
 ## About Sarah Dawn
 
-In 2018, while working as a landscaper, Sarah's buddy got tired of hearing her tell him other comedian's jokes and told her to start doing her own. Two nights later, at a nerd-metal/viking bar in Kelowna, BC Called Munninn's Post, Sarah did an open mic that she no longer remembers. After this, Sarah found the Kelowna Comedy scene, making friends with folks who were famously neurotic and deeply funny. You can check out some of the folks who came out of the same comedy scene here: (https://kelownacomedy.ca/), and you can follow her upcoming shows here (https://www.instagram.com/sarah.dawn.comedian/).
+In 2018, while working as a landscaper, Sarah's buddy got tired of hearing her tell him other comedian's jokes and told her to start doing her own. Two nights later, at a nerd-metal/viking bar in Kelowna, BC Called Munninn's Post, Sarah did an open mic that she no longer remembers. After this, Sarah found the Kelowna Comedy scene, making friends with folks who were famously neurotic and deeply funny. You can check out some of the folks who came out of the same comedy scene here: [Kelowna Comedy](https://kelownacomedy.ca/), and you can follow her upcoming shows here: [Sarah Dawn Comedian Instagram](https://www.instagram.com/sarah.dawn.comedian/).
 
 
 
