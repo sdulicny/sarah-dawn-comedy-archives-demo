@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/video.html objectid="sdc_002" %}
+{% include feature/image.html objectid="sdc_009" %}
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
