@@ -10,7 +10,6 @@ credits: true
 
 {% include feature/image.html objectid="sdc_009" %}
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
 ## About Sarah Dawn
 
