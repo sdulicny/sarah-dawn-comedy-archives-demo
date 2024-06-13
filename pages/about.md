@@ -12,20 +12,11 @@ credits: true
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
-## About CollectionBuilder CSV
+## About Sarah Dawn
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+In 2018, while working as a landscaper, Sarah's buddy got tired of hearing her tell him other comedian's jokes and told her to start doing her own. Two nights later, at a nerd-metal/viking bar in Kelowna, BC Called Munninn's Post, Sarah did an open mic that she no longer remembers. After this, Sarah found the Kelowna Comedy scene, making friends with folks who were famously neurotic and deeply funny. You can check out some of the folks who came out of the same comedy scene here: (https://kelownacomedy.ca/), and you can follow her upcoming shows here (https://www.instagram.com/sarah.dawn.comedian/).
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
