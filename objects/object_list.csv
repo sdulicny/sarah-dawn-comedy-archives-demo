@@ -1,7 +1,10 @@
 filename,object_location,image_small,image_thumb
 cat_joke.mov,/objects/cat_joke.mov,,
 catherine_ohara_clip.mov,/objects/catherine_ohara_clip.mov,,
+catherineohara.jpg,/objects/catherineohara.jpg,/objects/small/catherineohara_sm.jpg,/objects/thumbs/catherineohara_th.jpg
+catjoke.jpg,/objects/catjoke.jpg,/objects/small/catjoke_sm.jpg,/objects/thumbs/catjoke_th.jpg
 chinese_food_clip.mov,/objects/chinese_food_clip.mov,,
+chinesefood.jpg,/objects/chinesefood.jpg,/objects/small/chinesefood_sm.jpg,/objects/thumbs/chinesefood_th.jpg
 comedybar_sarahdawn_20240424.jpg,/objects/comedybar_sarahdawn_20240424.jpg,/objects/small/comedybar_sarahdawn_20240424_sm.jpg,/objects/thumbs/comedybar_sarahdawn_20240424_th.jpg
 comedybio-1.pdf,/objects/comedybio-1.pdf,/objects/small/comedybio-1_sm.jpg,/objects/thumbs/comedybio-1_th.jpg
 gonzo_headlineposter_20240420.jpg,/objects/gonzo_headlineposter_20240420.jpg,/objects/small/gonzo_headlineposter_20240420_sm.jpg,/objects/thumbs/gonzo_headlineposter_20240420_th.jpg
